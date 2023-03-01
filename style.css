@@ -1,0 +1,173 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+#banner {
+  background-color: #f1f3ff;
+  height: 500px;
+}
+
+.button-regis {
+  width: 81px;
+  height: 36px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #5cb85f;
+  color: white;
+  border: none;
+}
+
+.button-sewa {
+  width: 140px;
+  height: 36px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #5cb85f;
+  color: white;
+  border: none;
+}
+
+.nav-link {
+  font-size: 14px;
+}
+
+.text-tagline h1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.text-tagline p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.car-banner {
+  width: 650px;
+  height: auto;
+
+  left: 100px;
+  top: 125px;
+  background-color: #0d28a6;
+  border-left-width: 5px;
+  border-top-left-radius: 100px;
+  border-top: 50px;
+}
+
+/* Service */
+
+.service {
+  background-color: white;
+  height: 500px;
+}
+
+.text-service {
+  margin-top: px;
+}
+
+.text-service h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.text-service p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.text-service li {
+  font-size: 14px;
+  line-height: 20px;
+  /* margin-bottom: 10px; */
+  margin-top: 10px;
+  list-style-image: url(assets/list_logo.svg);
+  /* position: relative;
+  z-index: 10;
+  bottom: 11px; */
+}
+
+.text-service span {
+  position: relative;
+  z-index: 10;
+  bottom: 7px;
+}
+
+.img-service {
+  position: absolute;
+  width: 459px;
+  height: 428px;
+  /* margin-top: 150px; */
+  background-color: white;
+}
+
+/* Why Us */
+
+.why-us {
+  background-color: white;
+  height: 500px;
+}
+
+.text-why h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+/* Testimonial */
+
+.testimonial {
+  background-color: white;
+  height: 500px;
+}
+
+.text-testi h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#card {
+  background-color: #f1f3ff;
+}
+
+.testi-img {
+  top: 50px;
+  left: 30px;
+  width: 90px;
+}
+
+/* Banner Sewa */
+
+.banner-sewa {
+  background-color: white;
+  height: 500px;
+}
+
+.banner-card {
+  position: absolute;
+  width: 1255px;
+  height: 326px;
+
+  top: 2078px;
+  padding: 64px;
+  background: #0d28a6;
+  border-radius: 13px;
+}
+
+/* FAQ */
+
+.faq {
+  background-color: white;
+  height: 500px;
+}
+
+/* Footer */
+
+.footer {
+  background-color: white;
+  height: 200px;
+}
+
+.linkk a {
+  text-decoration: none;
+  color: black;
+}
