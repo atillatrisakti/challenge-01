@@ -4,7 +4,6 @@ body {
 
 #banner {
   background-color: #f1f3ff;
-  height: 500px;
 }
 
 .button-regis {
@@ -42,23 +41,10 @@ body {
   line-height: 20px;
 }
 
-.car-banner {
-  width: 650px;
-  height: auto;
-
-  left: 100px;
-  top: 125px;
-  background-color: #0d28a6;
-  border-left-width: 5px;
-  border-top-left-radius: 100px;
-  border-top: 50px;
-}
-
 /* Service */
 
 .service {
   background-color: white;
-  height: 500px;
 }
 
 .text-service {
@@ -79,12 +65,9 @@ body {
 .text-service li {
   font-size: 14px;
   line-height: 20px;
-  /* margin-bottom: 10px; */
+
   margin-top: 10px;
   list-style-image: url(assets/list_logo.svg);
-  /* position: relative;
-  z-index: 10;
-  bottom: 11px; */
 }
 
 .text-service span {
@@ -97,7 +80,7 @@ body {
   position: absolute;
   width: 459px;
   height: 428px;
-  /* margin-top: 150px; */
+
   background-color: white;
 }
 
@@ -105,7 +88,6 @@ body {
 
 .why-us {
   background-color: white;
-  height: 500px;
 }
 
 .text-why h1 {
@@ -117,7 +99,6 @@ body {
 
 .testimonial {
   background-color: white;
-  height: 500px;
 }
 
 .text-testi h1 {
@@ -129,42 +110,26 @@ body {
   background-color: #f1f3ff;
 }
 
-.testi-img {
-  top: 50px;
-  left: 30px;
-  width: 90px;
-}
-
 /* Banner Sewa */
 
 .banner-sewa {
   background-color: white;
-  height: 500px;
 }
 
 .banner-card {
-  position: absolute;
-  width: 1255px;
-  height: 326px;
-
-  top: 2078px;
-  padding: 64px;
   background: #0d28a6;
-  border-radius: 13px;
 }
 
 /* FAQ */
 
 .faq {
   background-color: white;
-  height: 500px;
 }
 
 /* Footer */
 
 .footer {
   background-color: white;
-  height: 200px;
 }
 
 .linkk a {
